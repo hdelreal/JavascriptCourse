@@ -1,0 +1,47 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 35,
+      "gender": "Male",
+      "bloodGroup": "O+",
+      "vitals": {
+        "heartRate": 72,
+        "bloodPressure": "120/80",
+        "temperature": 98.6
+      },
+      "conditions": ["Hypertension", "Mild Allergy"]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 28,
+      "gender": "Female",
+      "bloodGroup": "A-",
+      "vitals": {
+        "heartRate": 80,
+        "bloodPressure": "115/75",
+        "temperature": 98.9
+      },
+      "conditions": []
+    },
+    {
+      "id": 3,
+      "name": "Alex Johnson",
+      "age": 45,
+      "gender": "Non-binary",
+      "bloodGroup": "B+",
+      "vitals": {
+        "heartRate": 68,
+        "bloodPressure": "130/85",
+        "temperature": 97.8
+      },
+      "conditions": ["Type 2 Diabetes"]
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2024-02-12",
+    "source": "IBM Skills Network Practice"
+  }
+}
